@@ -11,7 +11,7 @@ This app allows users to:
 
 ## 🚀 Live Demo
 
-> [🔗 Click here to view the demo](#https://abhishekborad001.github.io/To-do-list-project/)  
+> [🔗 Click here to view the demo](https://abhishekborad001.github.io/To-do-list-project/)  
 
 
 <br>
